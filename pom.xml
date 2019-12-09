@@ -62,6 +62,7 @@
   	<module>eurekaclient</module>
   	<module>resttemplate</module>
   	<module>consumer</module>
+  	<module>zuul</module>
   </modules>
 </project>
 
