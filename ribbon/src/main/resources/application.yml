@@ -1,8 +1,8 @@
 server:
-  port: 8010 # 8010
+  port: 8040
 spring:
   application:
-    name: provider
+    name: ribbon
 eureka:
   client:
     service-url:
