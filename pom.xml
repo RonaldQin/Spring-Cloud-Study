@@ -65,6 +65,8 @@
   	<module>zuul</module>
   	<module>ribbon</module>
   	<module>feign</module>
+  	<module>hystrix</module>
+  	<module>sidecar</module>
   </modules>
 </project>
 
