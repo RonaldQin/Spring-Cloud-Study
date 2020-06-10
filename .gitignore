@@ -39,3 +39,7 @@ hs_err_pid*
 .classpath
 .factorypath
 .attach_pid*
+
+# IDEA
+*.iml
+.idea
