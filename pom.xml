@@ -67,6 +67,8 @@
   	<module>feign</module>
   	<module>hystrix</module>
   	<module>sidecar</module>
+  	<module>nativeconfigserver</module>
+  	<module>nativeconfigclient</module>
   </modules>
 </project>
 
