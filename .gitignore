@@ -43,3 +43,6 @@ hs_err_pid*
 # IDEA
 *.iml
 .idea
+
+# sts4
+.sts4-cache
